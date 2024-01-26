@@ -1,0 +1,165 @@
+code,name,postcode,easting,northing,latitude,longitude
+UEC_S1310140016,ED -  Queens Hospital Emergency Department - Burton on Trent,DE13 0RB,423313,324460,52.817179,-1.6555278
+UEC_S150255,ED - Accident and Emergency - St Marys Hospital - Newport - Isle of Wight,PO30 5TG,449458,90396,50.711101,-1.3008871
+UEC_S1310122735,ED - Alexandra Hospital Emergency Department - Redditch - Worcestershire,B98 7UB,405989,264661,52.280063,-1.9136358
+UEC_S1320335901,ED - Birmingham Heartlands Hospital Emergency Department,B9 5SS,411645,286935,52.480218,-1.8299656
+UEC_S157913,ED - Bristol Royal Infirmary - Bristol,BS2 8HW,358668,173492,51.458886,-2.596293
+UEC_S1400075315,ED - City Hospital Emergency Department (Birmingham),B18 7QH,404889,287992,52.489821,-1.9294268
+UEC_S131606,ED - Derriford Hospital - Plymouth,PL6 8DH,249930,59564,50.41672,-4.1136845
+UEC_S132302,ED - Emergency Department - Dorset County Hospital Dorchester,DT1 2JY,368528,90521,50.713461,-2.4471253
+UEC_S132522,ED - Emergency Department - Poole Hospital,BH15 2JB,401994,91374,50.721987,-1.9731169
+UEC_S132528,ED - Emergency Department - Royal Bournemouth Hospital,BH7 7DW,412760,94224,50.747482,-1.8205054
+UEC_S1319115817,"ED - George Eliot Hospital, Nuneaton",CV10 7DJ,435718,290586,52.511999,-1.4751307
+UEC_S157915,ED - Gloucester Royal - Gloucester,GL1 3NN,383992,218638,51.866088,-2.2338867
+UEC_S1320334030,ED - Good Hope Hospital Emergency Department (Birmingham),B75 7RR,412837,296632,52.567366,-1.8120433
+UEC_S101831,ED - Great Western Hospital - Swindon,SN3 6BB,418983,182175,51.538161,-1.7276925
+UEC_S1320418113,"ED - New Cross Hospital, Wolverhampton",WV10 0QP,393569,300055,52.598247,-2.0963786
+UEC_S136170,ED - North Devon District Hospital - Barnstaple,EX31 4JB,256457,134545,51.092201,-4.0511326
+UEC_S156448,ED - Princess Royal Hospital Emergency Department - Telford - Shropshire,TF1 6TF,365606,312873,52.712417,-2.510547
+UEC_S135115,ED - Royal Devon and Exeter Hospital - Exeter,EX2 5DW,293730,91870,50.716712,-3.5066801
+UEC_S156447,ED - Royal Shrewsbury Hospital Emergency Department - Shrewsbury - Shropshire,SY3 8XQ,346470,312706,52.709357,-2.7937517
+UEC_S157917,ED - Royal United Hospital - Bath,BA1 3NG,372922,166042,51.392764,-2.3905661
+UEC_S1320417525,"ED - Russells Hall Hospital, Dudley",DY1 2HQ,392104,289385,52.502306,-2.1177498
+UEC_S157918,ED - Salisbury FT - Salisbury,SP2 8BJ,414831,127199,51.043955,-1.7898225
+UEC_S1405581742,ED - Sandwell District General Hospital (SDGH),B71 4HJ,400919,292165,52.527357,-1.9878844
+UEC_S1310139179,ED - The County Hospital Accident and Emergency - Stafford,ST16 3SA,393509,323757,52.811318,-2.0977406
+UEC_S1310377326,ED - The County Hospital Emergency Department - Hereford - Herefordshire,HR1 2ER,351722,240075,52.056942,-2.7055327
+UEC_S136174,ED - Torbay Hospital - Torquay,TQ2 7AA,289858,65877,50.482325,-3.5537901
+UEC_S1316492629,ED - University Hospital Coventry and Warwickshire (UHCW),CV2 2DX,437942,280527,52.421424,-1.4435031
+UEC_S1320418429,"ED - Walsall Manor Hospital, Walsall",WS2 9PS,400152,298264,52.582186,-1.9991893
+UEC_S1316770441,ED - Warwick Hospital Emergency Department,CV34 5BW,428525,265839,52.28995,-1.5832152
+UEC_S1310125786,ED - Worcester Royal Hospital Emergency Department - Worcester - Worcestershire,WR5 1DD,387714,254789,52.191202,-2.1811435
+UEC_S1398798692,ED -Royal Stoke University Hospital Emergency Dept - Stoke on Trent,ST4 6QG,385678,345211,53.004021,-2.2148723
+UEC_S119858,ED: Darlington Memorial Hospital (Darlington),DL3 6HX,428269,515251,54.531753,-1.5646761
+UEC_S132188,ED: James Cook University Hospital (Middlesbrough),TS4 3BW,450919,517709,54.552075,-1.2142736
+UEC_S1434352744,ED: Northumbria Specialist Emergency Care Hospital (Cramlington),NE23 6NZ,427587,575599,55.074089,-1.5694923
+UEC_S132179,ED: Queen Elizabeth Hospital (Gateshead),NE9 6SX,426939,560550,54.938896,-1.5810513
+UEC_S1371992215,ED: Royal Infirmary of Edinburgh (Edinburgh),EH16 4SA,328993,670522,55.922514,-3.1378169
+UEC_S132178,ED: Royal Victoria Infirmary (Newcastle),NE1 4LP,424540,565083,54.979753,-1.6181094
+UEC_S132181,ED: South Tyneside District Hospital,NE34 0PL,436591,564288,54.971872,-1.4299296
+UEC_S132180,ED: Sunderland Royal Hospital,SR4 7TP,437866,556641,54.903063,-1.4110182
+UEC_S119857,ED: University Hospital North Durham (Durham),DH1 5TW,426275,543854,54.788899,-1.5929282
+UEC_S132186,ED: University Hospital of North Tees (Stockton),TS19 8PE,442318,521055,54.582933,-1.3467595
+UEC_S1345115495,Emergency Department  - Aintree University Hospital (Adults Only 16 ),L9 7AL,338020,397205,53.467918,-2.9351308
+UEC_S1316591486,"Emergency Department - Royal Derby Hospital, Derbyshire",DE22 3NE,432826,335014,52.911556,-1.5133206
+UEC_S1314373159,Emergency Department (ED with Eye Casualty) - Norfolk - Norwich Hospital (NNUH),NR4 7UY,618143,307129,52.618086,1.2210668
+UEC_S1354639391,Emergency Department (ED) - Addenbrookes - Cambridge,CB2 0QQ,546375,254988,52.173741,0.13911444
+UEC_S1351785399,"Emergency Department (ED) - Basildon Hospital - Basildon, Essex",SS16 5NL,569975,187157,51.557686,0.45055726
+UEC_S1395248508,Emergency Department (ED) - Bedford Hospital NHS Trust - Bedfordshire,MK42 9DJ,504712,248939,52.128848,-0.47173007
+UEC_S115525,"Emergency Department (ED) - Boston, Lincolnshire",PE21 9QS,533685,345596,52.991023,-0.00979363
+UEC_S1344863327,"Emergency Department (ED) - Broomfield Hospital - Chelmsford, Essex",CM1 7ET,570191,211310,51.774585,0.46542433
+UEC_S1346407659,"Emergency Department (ED) - Colchester General Hospital - Colchester, Essex",CO4 5JL,599526,227427,51.909629,0.89936594
+UEC_S1336643530,Emergency Department (ED) - Hinchingbrooke Hospital - Huntingdon,PE29 6NT,522564,272105,52.33335,-0.2026787
+UEC_S1336039079,Emergency Department (ED) - Ipswich Hospital Suffolk - Ipswich,IP4 5PD,619213,245003,52.060012,1.1963461
+UEC_S1331306940,"Emergency Department (ED) - James Paget Hospital (JPUH), Great Yarmouth",NR31 6LA,652093,302477,52.561672,1.7179799
+UEC_S115524,"Emergency Department (ED) - Lincoln, Lincolnshire",LN2 5QY,499010,371619,53.232388,-0.51814791
+UEC_S1332488930,Emergency Department (ED) - Lister Hospital - Stevenage Hertfordshire,SG1 4AB,522999,226630,51.924611,-0.21272607
+UEC_S1322145510,Emergency Department (ED) - Luton & Dunstable University Hospital - Luton,LU4 0DZ,505086,222836,51.894177,-0.47426894
+UEC_S1336642661,Emergency Department (ED) - Peterborough Emergency Department - Peterborough,PE3 9GZ,516622,300016,52.585451,-0.28009333
+UEC_S126495,"Emergency Department (ED) - Queen Elizabeth Hospital (QEHKL), Kings Lynn",PE30 4ET,565229,320493,52.756781,0.44699931
+UEC_S1346159622,"Emergency Department (ED) - Southend Hospital - Westcliff, Essex",SS0 0RY,586524,187310,51.553836,0.68909337
+UEC_S1332489377,Emergency Department (ED) - Watford General Hospital - Watford Hertfordshire,WD18 0HB,510485,195678,51.649051,-0.40447202
+UEC_S1333614691,Emergency Department (ED) - West Suffolk Hospital - Bury St Edmunds Suffolk,IP33 2QZ,585110,262732,52.231662,0.70917557
+UEC_S1346407264,"Emergency Department (ED) Princess Alexandra Hospital - Harlow, Essex",CM20 1QX,544048,210133,51.771343,0.086303423
+UEC_S1345732676,"Emergency Department - Barnsley, South Yorkshire (Barnsley Hospital)",S75 2EP,433247,406971,53.558314,-1.4995781
+UEC_S1325849840,Emergency Department - Bassetlaw Hospital,S81 0BD,459394,380452,53.317675,-1.1099002
+UEC_S1336548620,"Emergency Department - Bradford, West Yorkshire (Bradford Royal Infirmary)",BD9 6RJ,413606,434418,53.805882,-1.7948794
+UEC_S141498,Emergency Department - Carlisle,CA2 7HY,338830,556086,54.895745,-2.9552949
+UEC_S1318847500,"Emergency Department - Chesterfield Royal Hospital - Calow, Chesterfield, Derbys",S44 5BL,440139,371189,53.236223,-1.4000812
+UEC_S1315574221,Emergency Department - Countess of Chester Hospital,CH2 1UL,340058,368678,53.211767,-2.8990244
+UEC_S1339681046,"Emergency Department - Dewsbury, West Yorkshire (Dewsbury Dist Hospital)",WF13 4HS,423136,422833,53.701423,-1.6510355
+UEC_S120018,"Emergency Department - Doncaster, South Yorkshire (Doncaster Royal Infirmary)",DN2 5LT,459141,404156,53.530742,-1.1092567
+UEC_S1330943740,"Emergency Department - Fairfield General, Bury",BL9 7TD,383200,411579,53.600505,-2.2553361
+UEC_S146294,Emergency Department - Furness General Hospital - Barrow-in-Furness,LA14 4LF,321180,471847,54.136395,-3.2078839
+UEC_S1339588790,Emergency Department - Halifax (Calderdale Royal Hospital),HX3 0PW,409519,423218,53.705306,-1.8572797
+UEC_S1337088532,Emergency Department - Huddersfield (Huddersfield Royal Infirmary),HD3 3EA,412236,417681,53.655483,-1.8163381
+UEC_S1383125839,Emergency Department - Hull Royal Infirmary,HU3 2JZ,508369,428810,53.744412,-0.35827125
+UEC_S1336548667,"Emergency Department - Keighley, West Yorkshire (Airedale Hospital)",BD20 6TD,402549,444650,53.898015,-1.9626947
+UEC_S140957,Emergency Department - Kent - Darent Valley Hospital - Dartford,DA2 8DA,557060,173092,51.435061,0.25816101
+UEC_S140958,Emergency Department - Kent - William Harvey Hospital - Ashford,TN24 0LZ,604090,142068,51.141489,0.91620878
+UEC_S140954,Emergency Department - Kent Maidstone Hospital - West Kent,ME16 9QQ,573362,155654,51.273662,0.48397392
+UEC_S140955,Emergency Department - Kent Tunbridge Wells Hospital - West Kent,TN2 4QJ,561472,141407,51.149149,0.30726198
+UEC_S124609,Emergency Department - Kettering General Hospital - Northants,NN16 8UZ,485766,279006,52.402355,-0.74079082
+UEC_S1337859179,Emergency Department - Kings Mill Hospital  - Nottinghamshire,NG17 4JL,451071,359997,53.134692,-1.2380927
+UEC_S137720,Emergency Department - Leighton Hospital Crewe,CW1 4QJ,368248,357940,53.117685,-2.4758631
+UEC_S137721,Emergency Department - Macclesfield Hospital,SK10 3BL,390653,373927,53.262258,-2.1415838
+UEC_S126184,Emergency Department - Manchester Royal Infirmary (Central Manchester),M13 9WL,385178,396099,53.461426,-2.2247084
+UEC_S1474556551,Emergency Department - Medway Maritime Hospital - Gillingham,ME7 5NY,577021,167424,51.378267,0.54221759
+UEC_S168895,Emergency Department - Milton Keynes University Hospital - Milton Keynes,MK6 5LD,486835,237195,52.026383,-0.73579539
+UEC_S1444140367,Emergency Department - NELincs (Diana Princess of Wales),DN33 2BA,526244,407044,53.544866,-0.096213098
+UEC_S116215,Emergency Department - North Manchester General Hospital (North Manchester),M8 5RB,384881,402381,53.517882,-2.2294865
+UEC_S124656,Emergency Department - Northampton General Hospital - Northants,RG24 9RH,462037,154106,51.282725,-1.111885
+UEC_S1317197043,"Emergency Department - Nottingham University Hospital (QMC, Nottingham)",NG7 2UH,454811,338760,52.943439,-1.1857996
+UEC_S1317034440,Emergency Department - Rotherham Urgent and Emergency Care Centre,S60 2UD,443795,391046,53.414411,-1.3425728
+UEC_S1330338949,"Emergency Department - Royal Albert Edward Infirmary, Wigan",WN1 2NN,358395,406954,53.557549,-2.6295261
+UEC_S1354550353,"Emergency Department - Royal Bolton Hospital, Bolton",BL4 0JR,371598,406507,53.554415,-2.430185
+UEC_S136171,Emergency Department - Royal Cornwall Hospital - Truro,TR1 3LJ,179782,45319,50.266686,-5.0914501
+UEC_S104426,Emergency Department - Royal Lancaster Infirmary - Lancaster,LA1 4RP,347775,461064,54.042889,-2.7990215
+UEC_S115186,Emergency Department - Royal Liverpool University Hospital (Adults Only 16 ),L7 8XP,335962,390733,53.409506,-2.9648088
+UEC_S104922,Emergency Department - Royal Oldham Hospital,OL1 2JH,392000,406258,53.552888,-2.1222224
+UEC_S120954,Emergency Department - Royal Preston Hospital,PR2 9HT,353495,433014,53.79135,-2.7074034
+UEC_S158195,"Emergency Department - Salford Royal Hospital, Salford",M6 8HD,378686,398995,53.487232,-2.3226835
+UEC_S1334666193,Emergency Department - Scarborough,YO12 6QL,502007,488471,54.281707,-0.43470726
+UEC_S1313584380,Emergency Department - Southport Hospital (Adults Only 16 ),PR8 6PN,335399,415683,53.633665,-2.9784316
+UEC_S1357916075,Emergency Department - St Marys Hospital - Isles of Scilly,TR21 0LE,90743,10336,49.913069,-6.3093316
+UEC_S1334827633,"Emergency Department - Stepping Hill Hospital, Stockport",SK2 7JE,391316,387446,53.383787,-2.1320199
+UEC_S1333016573,Emergency Department - Surrey - East Surrey Hospital - Redhill,RH1 5RH,528510,148207,51.218607,-0.16128808
+UEC_S1345450584,Emergency Department - Surrey Epsom Hospital - Epsom,KT18 7EG,520402,159851,51.325026,-0.27340744
+UEC_S134666,"Emergency Department - Surrey Frimley Park Hospital - Camberley, Surrey",GU16 7UJ,487794,158592,51.31967,-0.74155505
+UEC_S134660,Emergency Department - Surrey Royal Surrey County Hospital - Guildford,GU2 7XX,497304,150015,51.241025,-0.60746234
+UEC_S134662,Emergency Department - Surrey St Peters Hospital - Chertsey,KT16 0PZ,502628,165256,51.377091,-0.52683986
+UEC_S140963,Emergency Department - Sussex - Conquest Hospital - Hastings,TN37 7RD,580708,112683,50.885373,0.56770788
+UEC_S140965,Emergency Department - Sussex - St Richards Hospital - Chichester,PO19 6SE,486835,105616,50.843562,-0.7680267
+UEC_S140964,Emergency Department - Sussex - Worthing Hospital - Worthing,BN11 2DH,515323,103187,50.816758,-0.36432126
+UEC_S140967,Emergency Department - Sussex Royal Sussex County Hospital - Brighton,BN2 5BE,532654,103901,50.819468,-0.11817668
+UEC_S120135,Emergency Department - Tameside General Hospital,OL6 9RW,395330,399502,53.492204,-2.0718565
+UEC_S1311694098,"Emergency Department - Wakefield, West Yorkshire (Pinderfields Hospital)",WF1 4DG,433875,421914,53.69258,-1.4884777
+UEC_S1315574459,Emergency Department - Warrington General Hospital,WA5 1QG,359484,388746,53.393982,-2.6107326
+UEC_S1315575058,Emergency Department - Whiston Hospital,L35 5DR,347861,391845,53.420813,-2.7860133
+UEC_S141499,Emergency Department - Whitehaven,CA28 8JG,298940,516115,54.530195,-3.5631749
+UEC_S1315574006,Emergency Department - Wirral University Teaching Hospital - Arrowe Park,CH49 5PE,327212,386557,53.370841,-3.0954486
+UEC_S116216,Emergency Department - Wythenshawe Hospital (South Manchester),M23 9LT,380598,388039,53.38883,-2.2931897
+UEC_S2000005702,Emergency Department - York (York Teaching Hospital),YO31 8HE,460208,453108,53.970547,-1.0836401
+UEC_S131480,"Emergency Department - Leicester Royal Infirmary (LRI UHL), LE1 5WW",LE1 5WW,458660,303691,52.627817,-1.1348028
+UEC_S168789,"Emergency Department Horton General Hospital, Banbury",OX16 9AL,445582,239667,52.053522,-1.3366639
+UEC_S168795,"Emergency Department John Radcliffe Hospital, Oxford",OX3 9DU,453940,207531,51.763871,-1.2198064
+UEC_S1413930976,"Emergency Department Out of Hours - Harrogate, Yorkshire",HG2 7SX,431709,455414,53.993799,-1.5178329
+UEC_S1327101691,Emergency Department Royal Berks Hospital Reading,RG1 5AN,472458,173005,51.451402,-0.95864504
+UEC_S111923,Emergency Department Royal Blackburn Hospital - Blackburn,BB2 3HH,369305,426794,53.736622,-2.4668058
+UEC_S1379952812,Emergency Department Scunthorpe,DN15 7BH,488341,410921,53.58744,-0.66693886
+UEC_S1315835856,"Emergency Department Stoke Mandeville Hospital, Bucks",HP21 8AL,482658,211751,51.798308,-0.80275732
+UEC_S1316787905,Emergency Department Wexham Park Hospital Slough,SL2 4HL,498930,182543,51.533136,-0.57512489
+UEC_S111975,Emergency Department Whinney Heys Road - Blackpool,FY3 8NR,333195,436523,53.820669,-3.0162645
+UEC_S1327668421,"Emergency Department, Basingstoke Hospital",RG24 9NA,462180,153873,51.280615,-1.1098753
+UEC_S136169,"Emergency Department, Musgrove Park Hospital Taunton",TA1 5DA,321541,124218,51.01197,-3.1197783
+UEC_S1331739692,"Emergency Department, Queen Alexandra Hospital, Portsmouth",PO6 3LY,465473,105974,50.849589,-1.0713238
+UEC_S1327668652,"Emergency Department, University Hospital Southampton",SO16 6YD,439793,114993,50.933019,-1.435104
+UEC_S1327668268,"Emergency Department, Winchester Hospital",SO22 5DG,446982,129328,51.061375,-1.3309587
+UEC_S136173,"Emergency Department, Yeovil District Hospital, Yeovil",BA21 4AT,355562,116398,50.945297,-2.6339071
+UEC_S140960,Emergency Department- Kent- Queen Elizabeth Queen Mother Hospital (QEQM) Margate,CT9 4AN,635967,169786,51.378053,1.3893845
+UEC_S1315584454,"Emergency Department: Barnet Hospital, Barnet, London",EN5 3DJ,523550,196196,51.65099,-0.21554404
+UEC_S1311847909,"Emergency Department: Chelsea and Westminster Hospital, West London",SW10 9NH,526369,177713,51.48426,-0.18145876
+UEC_S1318422569,"Emergency Department: Croydon University Hospital, Croydon, London",CR7 7YE,531688,167262,51.389129,-0.10878318
+UEC_S1311771418,"Emergency Department: Hillingdon Hospital, Hillingdon, London",UB8 3NN,506870,181856,51.525516,-0.46090535
+UEC_S1316254395,"Emergency Department: Homerton Hospital, City and Hackney, London",E9 6SR,535570,185336,51.550634,-0.046098772
+UEC_S1314807359,"Emergency Department: King George Hospital, Redbridge, London",IG3 8YB,546442,188967,51.580545,0.11210686
+UEC_S161980,"Emergency Department: Kings College Hospital, Southwark, London",SE5 9RS,532605,176102,51.468357,-0.092305953
+UEC_S1360669326,"Emergency Department: Kingston Hospital, Kingston, London",KT2 7QB,519495,169761,51.414285,-0.28308997
+UEC_S1317301651,"Emergency Department: Lewisham Hospital, Lewisham, London",SE13 6LH,537874,174681,51.45433,-0.017050825
+UEC_S1316254960,"Emergency Department: Newham University Hospital, Newham, London",E13 8SL,541305,182418,51.523008,0.035390609
+UEC_S1315584651,"Emergency Department: North Middlesex University Hospital, Enfield, London",N18 1QX,533429,192233,51.613122,-0.074340604
+UEC_S1311848031,"Emergency Department: Northwick Park Hospital, Harrow, London",HA1 3UJ,516346,187581,51.575098,-0.32248145
+UEC_S1317301802,"Emergency Department: Princess Royal Hospital, Bromley, London",BR6 8ND,543478,164974,51.365713,0.059625435
+UEC_S1317301501,"Emergency Department: Queen Elizabeth Hospital, Greenwich, London",SE18 4QH,542366,177503,51.478577,0.048691764
+UEC_S1314807240,"Emergency Department: Queens Hospital, Havering, London",RM7 0AG,551110,187777,51.568622,0.17891397
+UEC_S1315584233,"Emergency Department: Royal Free Hospital Hampstead, Camden, London",NW3 2QG,527297,185410,51.553224,-0.16532365
+UEC_S1350020798,"Emergency Department: St Georges Hospital, Wandsworth, London",SW17 0QT,526925,171325,51.426727,-0.17574589
+UEC_S55,"Emergency Department: St Helier Hospital, Sutton, London",SM5 1AA,526536,166124,51.380072,-0.18319141
+UEC_S1311847603,"Emergency Department: St Marys Hospital, Central London",W2 1NY,526781,181380,51.517123,-0.1742119
+UEC_S1317301221,"Emergency Department: St Thomas Hospital, Lambeth, London",SE1 7EH,530620,179339,51.497908,-0.1196707
+UEC_S1316255391,"Emergency Department: The Royal London Hospital, Tower Hamlets, London",E1 1BB,534833,181799,51.519026,-0.058075032
+UEC_S1315584052,"Emergency Department: University College London Hospital, Camden, London",NW1 2BU,529340,182306,51.524865,-0.13701251
+UEC_S1311848220,"Emergency Department: West Middlesex Hospital, Hounslow, London",TW7 6AF,516346,176341,51.474078,-0.32618972
+UEC_S1314807430,"Emergency Department: Whipps Cross Hospital, Waltham Forest, London",E11 1NR,538880,188505,51.578306,0.002860624
+UEC_S1315571587,"Emergency Department: Whittington Hospital, Islington, London",N19 5NF,529141,186954,51.566681,-0.13817508
+UEC_S2000013697,"LCW: ED Revalidation Line - CARE UK (SOUTHALL) USE ONLY, Ealing, London",W5 2HL,517446,180732,51.513315,-0.30889904
